@@ -1,0 +1,20 @@
+{
+  "name": "webos-launcher",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heegoo-han/webos-launcher.git"
+  },
+  "keywords": [],
+  "author": "heegoo.han@lge.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heegoo-han/webos-launcher/issues"
+  },
+  "homepage": "https://github.com/heegoo-han/webos-launcher"
+}
